@@ -4,6 +4,9 @@ This is a Barnsley Fern Fractals
 ```bash
 pip install matplotlib
 ```
+```bash
+pip install numpy
+```
 
 
 ![](https://github.com/rohankumarp/Barnsley-fern/blob/main/pic/Barnsley_fern.png)
